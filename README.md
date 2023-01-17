@@ -166,7 +166,7 @@
 
 &nbsp;
 
-## 🔥 Truoble Shooting
+## 🔥 Trouble Shooting
 
 ### 메모리 누수 디버깅
 
